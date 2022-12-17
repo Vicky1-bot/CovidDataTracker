@@ -1,7 +1,7 @@
 # CovidDataTracker
 A Simple Flask app ,which is used for  tracking daywise covid data.
 ### Steps to Run app:
-    1. git clone https://github.com/Vicky1-bot/Flask-ImgToSketch-.git   ###clone repositoty
+    1. git clone https://github.com/Vicky1-bot/CovidDataTracker.git   ###clone repositoty
 
     2. Cd CovidDataTracker  ### change directory 
 
